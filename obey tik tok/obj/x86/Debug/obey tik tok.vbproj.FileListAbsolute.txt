@@ -1,0 +1,22 @@
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\bin\Debug\obey tik tok.exe
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\bin\Debug\obey tik tok.pdb
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\bin\Debug\obey tik tok.xml
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey_tik_tok.Form1.resources
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey_tik_tok.Resources.resources
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.exe
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.xml
+c:\users\dal\documents\visual studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.pdb
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\bin\Debug\obey tik tok.exe
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\bin\Debug\obey tik tok.pdb
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\bin\Debug\obey tik tok.xml
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.vbprojAssemblyReference.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey_tik_tok.Form1.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey_tik_tok.Resources.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.vbproj.GenerateResource.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.vbproj.CoreCompileInputs.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.exe
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.xml
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\obey tik tok\obey tik tok\obj\x86\Debug\obey tik tok.pdb
